@@ -13,14 +13,14 @@
 	border: none;
 	padding: 12px;
 	display: block;
-	margin: 16px 0;
+	margin: 12px 0;
 	background-color: black;
 	color: white;
 }
 .sample-text {
 	padding: 12px;
 	display: block;
-	margin: 16px, 0;
+	margin: 16px 0;
 }
 .container {
 	display: flex;
