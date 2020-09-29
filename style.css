@@ -1,0 +1,22 @@
+.input {
+	width: 64px;
+	height: 12px;
+	border: none;
+	padding: 24px 12px;
+	display: block;
+	margin: 0;
+}
+#mass {
+	border: none;
+	padding: 12px;
+	display: block;
+	margin: 16px, 0;
+	background-color: black;
+	color: white;
+}
+.container {
+	display: flex;
+}
+.color-picker\:a {
+	display: none;
+}
