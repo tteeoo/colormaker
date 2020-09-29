@@ -12,7 +12,7 @@ function invertColor(hex) {
 	var g = parseInt(hex.slice(2, 4), 16);
 	var b = parseInt(hex.slice(4, 6), 16);
 	var total = r+g+b;
-	if (total > 383) {
+	if (total > 250) {
 		return "#000000"
 	} else {
 		return "#ffffff"
